@@ -1,8 +1,13 @@
 {
   "name": "google-timezones-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of timezones as in Google Calendar",
   "main": "index.js",
+  "homepage": "https://github.com/sanohin/google-timezones-json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanohin/google-timezones-json"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
