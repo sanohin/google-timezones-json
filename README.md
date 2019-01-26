@@ -1,3 +1,6 @@
+[![version](https://img.shields.io/npm/v/google-timezones-json.svg)]()
+[![downloads](https://img.shields.io/npm/dm/google-timezones-json.svg)]()
+
 ```javascript
 import timezones from 'google-timezones-json';
 // var timezones = require('google-timezones-json');
